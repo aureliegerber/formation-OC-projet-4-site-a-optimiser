@@ -1,7 +1,7 @@
 # Project 4 of the Openclassrooms web developer training
 ***
-Optimization of an existing website
-This site is the version to optimize 
+* Optimization of an existing website
+* This site is the version to optimize 
 
 ## Assessed skills
 ***
